@@ -1,1 +1,2 @@
-Welcome to the algorithms wiki!
+# Algorithms tutorial
+_Implementation using Python and Java both_
